@@ -1,3 +1,4 @@
-*.dart linguist-detectable=true
 android/app/src/main/cpp/* linguist-vendored
 CMakeLists.txt linguist-vendored
+windows/runner/* linguist-vendored
+*.dart linguist-detectable=true
